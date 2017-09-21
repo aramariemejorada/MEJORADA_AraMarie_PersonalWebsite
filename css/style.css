@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    background-attachment: fixed;
+    font-family: sans-serif; 
+}
+
+h2{
+    font-size: 20px;
+    line-height: 10%;
+    margin-top: 9%;
+    color: #9C9C9C;
+}
+
+p{
+    font-size: 13px;
+    color: #9C9C9C;
+}
+
+#description{
+    float: left;
+    width: 55%;
+    margin-top: 5%;
+}
+
+#info{
+    float: left;
+    width: 20%;
+    margin-top: 15%;
+    line-height: 120%;
+}
+
+#form{
+    float: right;
+    width: 25%;
+    margin-top: 15%;
+}
