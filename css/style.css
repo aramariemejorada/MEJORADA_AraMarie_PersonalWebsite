@@ -47,20 +47,33 @@ a:hover{
     float: left;
     width: 55%;
     margin-top: 5%;
-    align-self: center;
 }
 
 #info{
     float: left;
     width: 20%;
     margin-top: 16%;
+    margin-left: 65px;
     line-height: 120%;
-    align-self: center;
 }
 
 #form{
     float: right;
-    width: 25%;
+    width: 20%;
     margin-top: 15%;
-    align-self: center;
+}
+
+/*#home{
+    clear: both;
+    background: rgba(255,255,255,0.5);
+}*/
+
+#timeline{
+    clear: both;
+}
+
+p#bot{
+    font-size: 40px;
+    letter-spacing: 50px;
+    line-height: 5px;
 }
