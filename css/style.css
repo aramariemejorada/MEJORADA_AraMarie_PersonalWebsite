@@ -1,36 +1,66 @@
 body {
     background-color: black;
     background-attachment: fixed;
-    font-family: sans-serif; 
+    font-family: 'Bubbler One', sans-serif; 
+    color: white;
 }
 
 h2{
     font-size: 20px;
     line-height: 10%;
-    margin-top: 9%;
-    color: #9C9C9C;
 }
 
-p{
-    font-size: 13px;
-    color: #9C9C9C;
+p#desc{
+    font-size: 20px;
+    letter-spacing: 10px;
+    line-height: 5px;
+}
+
+p#ref{
+    font-size: 10px;
+    letter-spacing: 3px;
+    line-height: 300px;
+}
+
+a:link{
+    color: white;
+    text-decoration: none;
+}
+
+a:visited{
+    color:white;
+    text-decoration: none;
+}
+
+a:active{
+    color: lightcoral;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: lightblue;
+    text-decoration: none;
 }
 
 #description{
     float: left;
     width: 55%;
     margin-top: 5%;
+    align-self: center;
 }
 
 #info{
     float: left;
     width: 20%;
-    margin-top: 15%;
+    margin-top: 16%;
     line-height: 120%;
+    align-self: center;
 }
 
 #form{
     float: right;
     width: 25%;
     margin-top: 15%;
+    align-self: center;
 }
