@@ -85,3 +85,10 @@ a:hover{
 #button:hover{
     color: lightblue;
 }
+
+#sns{
+    position: fixed;
+    z-index: 1;
+    left: 63%;
+    margin-top: 10%;
+}
