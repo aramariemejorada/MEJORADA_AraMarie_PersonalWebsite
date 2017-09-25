@@ -28,6 +28,8 @@ h2{
     left: 66%;
 }
 
+
+
 /*ASPIRING PROGRAMMER*/
 p#desc{
     font-size: 20px;
@@ -68,6 +70,7 @@ a:hover{
     font-family: 'Bubbler One', sans-serif;
     font-weight: bold;
     letter-spacing: 1px;
+    z-index: 2;
 }
 
 #button{
@@ -90,5 +93,5 @@ a:hover{
     position: fixed;
     z-index: 1;
     left: 63%;
-    margin-top: 10%;
+    margin-top: 10%; 
 }
