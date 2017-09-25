@@ -18,13 +18,14 @@ h2{
 }
 
 #contactMe{
-    float: right;
     background: rgba(119,136,153,.5);
     background-attachment: fixed;
+    height: 100%;
     padding-top: 130px;
     padding-left: 150px;
     padding-right: 50px;
-    padding-bottom: 135px;
+    position: fixed;
+    left: 66%;
 }
 
 /*ASPIRING PROGRAMMER*/
