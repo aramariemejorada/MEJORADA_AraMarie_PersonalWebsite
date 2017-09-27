@@ -46,7 +46,7 @@ header{
     letter-spacing: 20px;
 }
 
-#educ{
+#educ, #skills, #ex, #reference{
     margin-left: 400px;
 }
 
