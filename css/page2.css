@@ -31,23 +31,3 @@ a:hover{
     color: lightblue;
     text-decoration: none;
 }
-
-/*text inputs and text area*/
-#name, #email, #message{
-    font-family: 'Bubbler One', sans-serif;
-    font-weight: bold;
-    letter-spacing: 1px;
-    z-index: 2;
-}
-
-#button{
-    background: transparent;
-    font-size: 15px;
-    color: white;
-    border-left: none;
-    border-right: none;
-    border-width: 1px;
-    margin-top: 5px;
-    font-family: 'Bubbler One', sans-serif; 
-    letter-spacing: 5px;
-}
