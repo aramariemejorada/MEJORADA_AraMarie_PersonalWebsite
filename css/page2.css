@@ -46,6 +46,15 @@ header{
     letter-spacing: 20px;
 }
 
+#rel{
+    line-height: 1px;
+    font-size: 15px;
+}
+
+#det{
+    line-height: 30px;
+}
+
 #educ, #skills, #ex, #reference{
     margin-left: 400px;
 }
