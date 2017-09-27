@@ -17,10 +17,18 @@ hr{
 
 #bio{
     background: rgba(145, 166, 187, 0.5);
-    padding-top: 30px;
+    margin-top: 8%;
+    padding-top: 120px;
     padding-bottom: 30px;
     padding-left: 200px;
     padding-right: 50px;
+}
+
+#dp{
+    position: absolute;
+    margin-top: 1%;
+    z-index: 2;
+    left: 42%;
 }
 
 /*LINKS*/
