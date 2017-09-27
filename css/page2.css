@@ -7,7 +7,20 @@ body {
 
 p#ref{
     font-size: 10px;
-    letter-spacing: 3px;    
+    letter-spacing: 3px;
+    margin-top: 50px;    
+}
+
+hr{
+    width: 50%;
+}
+
+#bio{
+    background: rgba(145, 166, 187, 0.5);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 200px;
+    padding-right: 50px;
 }
 
 /*LINKS*/
