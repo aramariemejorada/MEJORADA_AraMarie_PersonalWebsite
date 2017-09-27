@@ -103,33 +103,8 @@ a:hover{
 }
 
 #dp:hover{
-    opacity: .5;
+    opacity: .8;
 }
 
 /*ABOUT ME PAGE*/
 
-#bio{
-    background: rgba(145, 166, 187, 0.5);
-    float: center;
-    padding-left: 100px;
-    padding-top: 50px;
-    padding-right: 100px;
-    padding-bottom: 25px;
-    margin-left: 250px;
-    margin-right: 250px;
-}
-
-header{
-    font-size: 30px;
-    font-weight: bold;
-    letter-spacing: 2px;
-}
-
-#title{
-    letter-spacing: 10px;
-    font-size: 20px;
-}
-
-hr{
-    width: 350px;
-}
