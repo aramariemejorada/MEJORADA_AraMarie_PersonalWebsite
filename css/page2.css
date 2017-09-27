@@ -59,6 +59,20 @@ header{
     margin-left: 400px;
 }
 
+#left{
+    z-index: 2;
+    position: absolute;
+    left: 80px;
+    top: 40px;
+}
+
+#right{
+    z-index: 2;
+    position: absolute;
+    left: 1060px;
+    top: 40px
+}
+
 /*LINKS*/
 a:link{
     color: white;
