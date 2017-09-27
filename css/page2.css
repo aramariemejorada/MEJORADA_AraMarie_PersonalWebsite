@@ -18,10 +18,8 @@ hr{
 #bio{
     background: rgba(145, 166, 187, 0.5);
     margin-top: 8%;
-    padding-top: 120px;
+    padding-top: 130px;
     padding-bottom: 30px;
-    padding-left: 200px;
-    padding-right: 50px;
 }
 
 #dp{
@@ -29,6 +27,19 @@ hr{
     margin-top: 1%;
     z-index: 2;
     left: 42%;
+}
+
+header{
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+#intro{
+    padding-left: 200px;
+    padding-right: 200px;
+    line-height: 25px;
+    font-size: 20px;
 }
 
 /*LINKS*/
