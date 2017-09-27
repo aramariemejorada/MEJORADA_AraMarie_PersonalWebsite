@@ -42,6 +42,14 @@ header{
     font-size: 20px;
 }
 
+#title{
+    letter-spacing: 20px;
+}
+
+#educ{
+    margin-left: 400px;
+}
+
 /*LINKS*/
 a:link{
     color: white;
